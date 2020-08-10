@@ -1,6 +1,4 @@
-def main():
-    pass
-
+from Python.Home import Home
 
 if __name__ == "__main__":
-    main()
+    home = Home.home()
